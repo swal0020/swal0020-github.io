@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(53, 130, 247);
+    padding-top: 5px;
+}
+
+body{
+    background-color:deepskyblue;
+}
+
+.img-one-text{
+    padding-top: 35%;
+}
+
+.img-thumbnail{
+    border: red;
+}
